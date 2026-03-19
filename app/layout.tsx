@@ -32,6 +32,12 @@ export default function RootLayout({
       lang="es"
       className={`${geistSans.variable} ${geistMono.variable} h-full scroll-smooth antialiased`}
     >
+      <head>
+        <meta
+          name="google-site-verification"
+          content="6Cr92jGfY8D6cZX4sdEC1v1vECb_mgjBy8Jd9qoUfI4"
+        />
+      </head>
       <body className="min-h-full bg-[#050505] text-zinc-100">{children}</body>
     </html>
   );
