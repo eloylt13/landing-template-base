@@ -14,7 +14,7 @@ export default function SocialProof() {
             </h2>
           </div>
           <p className="max-w-xl text-sm leading-7 text-zinc-400">
-            Una web clara y profesional ayuda a que la primera impresion sea mas solida.
+            Una web clara y profesional ayuda a que la primera impresión sea más sólida.
           </p>
         </div>
 

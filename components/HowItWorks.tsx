@@ -9,10 +9,10 @@ export default function HowItWorks() {
       <div className="mx-auto w-full max-w-7xl px-6 py-16 sm:py-20 lg:px-8">
         <div className="max-w-2xl">
           <p className="text-sm font-medium uppercase tracking-[0.32em] text-zinc-500">
-            Metodo
+            Método
           </p>
           <h2 className="mt-3 text-3xl font-semibold tracking-[-0.03em] text-white sm:text-4xl">
-            Un proceso claro, pensado para facilitar la decision.
+            Un proceso claro, pensado para facilitar la decisión.
           </h2>
         </div>
         <div className="mt-10 grid gap-4 lg:grid-cols-3">

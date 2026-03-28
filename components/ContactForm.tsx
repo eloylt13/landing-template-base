@@ -46,7 +46,7 @@ export default function ContactForm() {
             name="need"
             type="text"
             className="rounded-2xl border border-white/10 bg-white/[0.03] px-4 py-3 text-white outline-none placeholder:text-zinc-600 focus:border-white/25"
-            placeholder="Ej: consultoria, estudio, servicios profesionales"
+            placeholder="Ej: consultoría, estudio, servicios profesionales"
           />
         </label>
 
@@ -56,7 +56,7 @@ export default function ContactForm() {
             name="message"
             rows={5}
             className="rounded-2xl border border-white/10 bg-white/[0.03] px-4 py-3 text-white outline-none placeholder:text-zinc-600 focus:border-white/25"
-            placeholder="Cuentanos que necesitas"
+            placeholder="Cuéntanos qué necesitas"
           />
         </label>
 

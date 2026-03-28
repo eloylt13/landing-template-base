@@ -1,5 +1,6 @@
 ﻿import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 
 import "./globals.css";
 import { siteContent } from "@/lib/content";
@@ -38,7 +39,10 @@ export default function RootLayout({
           content="6Cr92jGfY8D6cZX4sdEC1v1vECb_mgjBy8Jd9qoUfI4"
         />
       </head>
-      <body className="min-h-full bg-[#050505] text-zinc-100">{children}</body>
+      <body className="min-h-full bg-[#050505] text-zinc-100">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }

@@ -1,12 +1,12 @@
 ﻿export const siteContent = {
   brand: {
-    name: 'Atelier Norte',
+    name: 'IAMagica',
     description:
       'Presencia digital para negocios de servicios que buscan claridad, confianza y una imagen seria.',
   },
   qualifier: [
     'Estudio digital para negocios de servicios',
-    'Atencion cercana',
+    'Atención cercana',
     'Proceso claro',
     'Imagen premium',
   ],
@@ -17,23 +17,23 @@
       'Una web sobria, bien escrita y orientada a transmitir confianza desde el primer momento.',
     primaryCta: 'Solicitar propuesta',
     secondaryCta: 'Conocer el servicio',
-    trustLabel: 'Pensada para estudios, consultorias y negocios de servicios que quieren una presencia seria.',
+    trustLabel: 'Pensada para estudios, consultorías y negocios de servicios que quieren una presencia seria.',
   },
   benefits: [
     {
       title: 'Claridad comercial',
       description:
-        'Explicamos la oferta de forma directa para que el visitante entienda rapido el valor.',
+        'Explicamos la oferta de forma directa para que el visitante entienda rápido el valor.',
     },
     {
       title: 'Imagen profesional',
       description:
-        'Una presencia cuidada refuerza la percepcion de seriedad y confianza.',
+        'Una presencia cuidada refuerza la percepción de seriedad y confianza.',
     },
     {
-      title: 'Contacto facil',
+      title: 'Contacto fácil',
       description:
-        'La estructura guia al usuario hacia una accion sencilla y sin friccion.',
+        'La estructura guía al usuario hacia una acción sencilla y sin fricción.',
     },
   ],
   howItWorks: [
@@ -47,13 +47,13 @@
       step: '02',
       title: 'Ordenamos el mensaje',
       description:
-        'Priorizamos lo importante para que la lectura sea rapida y convincente.',
+        'Priorizamos lo importante para que la lectura sea rápida y convincente.',
     },
     {
       step: '03',
       title: 'Abrimos el contacto',
       description:
-        'Dejamos claro como dar el siguiente paso y pedir informacion.',
+        'Dejamos claro cómo dar el siguiente paso y pedir información.',
     },
   ],
   programs: [
@@ -64,15 +64,15 @@
       points: ['Mensaje directo', 'Imagen cuidada', 'Lectura sencilla'],
     },
     {
-      name: 'Pagina de conversion',
+      name: 'Página de conversión',
       summary:
-        'Una presentacion enfocada en captar interesados y facilitar el contacto.',
-      points: ['Propuesta clara', 'Llamadas a la accion visibles', 'Contenido orientado a contacto'],
+        'Una presentación enfocada en captar interesados y facilitar el contacto.',
+      points: ['Propuesta clara', 'Llamadas a la acción visibles', 'Contenido orientado a contacto'],
     },
     {
-      name: 'Ajustes y evolucion',
+      name: 'Ajustes y evolución',
       summary:
-        'Ajustes posteriores para mantener la pagina alineada con la evolucion del negocio.',
+        'Ajustes posteriores para mantener la página alineada con la evolución del negocio.',
       points: ['Mejoras de copy', 'Ajustes visuales', 'Seguimiento cercano'],
     },
   ],
@@ -85,11 +85,11 @@
     ],
     quotes: [
       {
-        text: 'Nos ayudaron a presentar el servicio con mucha mas claridad y la pagina transmite mas confianza.',
+        text: 'Nos ayudaron a presentar el servicio con mucha más claridad y la página transmite más confianza.',
         author: 'Cliente profesional',
       },
       {
-        text: 'El resultado se siente serio, limpio y facil de entender para un cliente nuevo.',
+        text: 'El resultado se siente serio, limpio y fácil de entender para un cliente nuevo.',
         author: 'Responsable comercial',
       },
     ],
@@ -98,45 +98,45 @@
     eyebrow: 'Sobre el estudio',
     title: 'Cuidamos la presencia digital de negocios de servicios.',
     description:
-      'Trabajamos el mensaje, la estructura y la sensacion de marca para que la web apoye la conversacion comercial y facilite el contacto.',
+      'Trabajamos el mensaje, la estructura y la sensación de marca para que la web apoye la conversación comercial y facilite el contacto.',
     bullets: [
       'Mensaje y posicionamiento',
-      'Diseno sobrio y cuidado',
+      'Diseño sobrio y cuidado',
       'Trato directo y cercano',
     ],
   },
   faq: [
     {
-      question: 'Que tipo de servicios trabajais?',
+      question: '¿Qué tipo de servicios trabajáis?',
       answer:
         'Trabajamos con negocios de servicios que necesitan una presencia seria, clara y orientada a generar confianza.',
     },
     {
-      question: 'Cuanto tarda una primera propuesta?',
+      question: '¿Cuánto tarda una primera propuesta?',
       answer:
-        'Depende del alcance, pero solemos empezar con una primera orientacion rapida para no alargar el proceso.',
+        'Depende del alcance, pero solemos empezar con una primera orientación rápida para no alargar el proceso.',
     },
     {
       question: 'Podemos adaptar el contenido a nuestra oferta?',
       answer:
-        'Si. El mensaje se ajusta a tu servicio, a tu cliente ideal y al tono de tu marca.',
+        'Sí. El mensaje se ajusta a tu servicio, a tu cliente ideal y al tono de tu marca.',
     },
     {
-      question: 'Que necesitais para empezar?',
+      question: '¿Qué necesitáis para empezar?',
       answer:
-        'Una descripcion breve de tu servicio, tus objetivos y el tipo de contacto que quieres recibir.',
+        'Una descripción breve de tu servicio, tus objetivos y el tipo de contacto que quieres recibir.',
     },
   ],
   finalCta: {
     eyebrow: 'Hablemos de tu proyecto',
-    title: 'Si quieres una presencia mas clara y profesional, podemos ayudarte a dar el siguiente paso.',
+    title: 'Si quieres una presencia más clara y profesional, podemos ayudarte a dar el siguiente paso.',
     description:
       'Un sitio serio, bien escrito y enfocado a convertir visitas en contactos marca la diferencia en cualquier negocio de servicios.',
     primaryCta: 'Solicitar propuesta',
     secondaryCta: 'Volver arriba',
   },
   contactForm: {
-    title: 'Solicita informacion',
+    title: 'Solicita información',
     description:
       'Cuentanos brevemente tu servicio y te responderemos con una primera orientacion.',
     fields: ['Nombre', 'Email', 'Empresa', 'Tipo de servicio', 'Mensaje'],
